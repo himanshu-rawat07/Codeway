@@ -1,2 +1,2 @@
-# Calulator-Version-1
+# Calulator
  Find your solution here...
